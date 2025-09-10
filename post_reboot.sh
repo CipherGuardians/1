@@ -41,7 +41,7 @@ EOF
 docker-compose up -d
 
 # Вывод логов Docker
-docker logs -ft proxy
+
 
 # Перезагрузка системы
 reboot
